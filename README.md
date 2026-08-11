@@ -38,8 +38,8 @@ Visit the live demo: [Death Clock Startup Page](https://death-clock-startup-page
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/death-clock-startup.git
-   cd death-clock-startup
+   git clone https://github.com/yourusername/Death-Clock.git
+   cd Death-Clock
    ```
 
 2. Open the project:
